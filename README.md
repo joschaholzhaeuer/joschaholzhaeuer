@@ -4,7 +4,7 @@ I am a web developer from Karlsruhe with 7 years of experience as freelancer, co
 
 - 🏢 I'm currently looking for a job as a javascript/web developer in Karlsruhe
 - 🌱 I’m currently working on my personal site
-- 📫 How to reach me: (Xing)[https://bit.ly/44BvEIX], (LinkedIn)[https://bit.ly/3rmJBMs]
+- 📫 How to reach me: [Xing](https://bit.ly/44BvEIX), [LinkedIn](https://bit.ly/3rmJBMs)
 - 😄 Fun Fact: I love bread. I bake bread. You wanna talk about bread? Reach out!
 
 <!--
