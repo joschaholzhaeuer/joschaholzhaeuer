@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-I am a web developer from Karlsruhe with 7 years of experience as freelancer, co-founder and CTO of a wordpress agency. 
-
-- 🏢 I'm currently looking for a job as a javascript/web developer in Karlsruhe
-- 🌱 I’m currently working on my [personal site](https://bit.ly/jh-website)
-- 📫 How to reach me: [Xing](https://bit.ly/jh-xing), [LinkedIn](https://bit.ly/jh-linked-in)
-- 😄 Fun Fact: I love bread. I bake bread. You wanna talk about bread? Reach out!
+I am a web developer from Karlsruhe with 7 years of experience as freelancer, co-founder and CTO of a wordpress agency. Currently working as consultant @exxeta.
 
 <!--
 **joschaholzhaeuer/joschaholzhaeuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
