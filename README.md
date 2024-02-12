@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a web developer from Karlsruhe with 7 years of experience as freelancer, co-founder and CTO of a wordpress agency. Currently working as consultant @exxeta.
+I am a web developer from Karlsruhe with 8 years of experience as freelancer, co-founder and CTO of a wordpress agency. Currently working as consultant @exxeta.
 
 <!--
 **joschaholzhaeuer/joschaholzhaeuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
